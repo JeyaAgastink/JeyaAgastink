@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on: Robotics automation, autonomous navigation systems, and custom software development for edge hardware.<br><br>I’m looking to collaborate on: ROS 2 architecture, computer vision applications, and open-source robotics projects.<br><br>I’m looking for help with: Advanced hardware-software integration and optimizing deep learning models for resource-constrained embedded systems.<br><br>I’m currently learning: Drone technologies, flight controller configurations, and 3D simulation environments for robotics testing.<br><br>Ask me about: ROS 2 development, object detection using YOLO architectures, or robot kinematics and simulation.<br><br>Fun fact: I believe any problem can be solved if you look at it through the right coordinate frame—though sometimes it just takes a clean rebuild of the workspace!
 
 
